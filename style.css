@@ -1,0 +1,65 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.overflow {
+  height: 150px;
+  width: 150px;
+  border: 1px solid black;
+}
+
+.overflow-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* create overflow classes and all other CSS below here */
+
+
+
+
+
+/* code for positioning code-along */
+.one, .two, .three, .four{
+    height: 50px;
+    width: 100px;
+    border: solid red 2px;
+    text-align: center;
+    padding-top: 47px;
+}
+.wrapper1{
+    border:solid black 2px;
+    width:40%;
+    float:left;
+    height: 400px;
+}
+.wrapper2{
+    border:solid black 2px;
+    width:40%;
+    float: right;
+    height: 400px;
+}
+.one{
+    border: red solid 2px;
+    /*Code for Step 2*/
+
+
+}
+.two{
+    border: yellow solid 2px;
+    /*Code for Step 3*/
+
+
+}
+.three{
+    border: blue solid 2px;
+    /*Code for Step 4*/
+
+
+}
+.four{
+    border: orange solid 2px;
+    /*Code for Step 5*/
+  
+}
